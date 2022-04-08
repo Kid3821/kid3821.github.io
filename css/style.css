@@ -353,7 +353,7 @@ header {
 }
 
 .my-work {
-    background-color: var(--clr-dark);
+    background-color: slategrey;
     color: var(--clr-light);
     text-align: center;
 }
