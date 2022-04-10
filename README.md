@@ -1,2 +1,3 @@
-# kid3821.github.io
+This is a responsive front-end portfolio.
+by:Kidus Kebede
  
